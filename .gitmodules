@@ -1,6 +1,6 @@
 [submodule "AIM_DS_Entry_CONTEST"]
-	path = AIM_DS_Entry_CONTEST
+	path = Courses/AIM_DS_Entry_CONTEST
 	url = https://github.com/sadsergo/AIM_DS_CONTEST.git
 [submodule "AIM_BI_Entry_CONTEST"]
-	path = AIM_BI_Entry_CONTEST
+	path = Courses/AIM_BI_Entry_CONTEST
 	url = https://github.com/sadsergo/AIM_BI_CONTEST.git
